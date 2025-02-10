@@ -1,14 +1,28 @@
-# karan
-### Full Stack Developer
 
-Got into this profession because you feel creator, you have this sensation to be able to create and execute whatever you are cable to think of.
+<h1 align="center" style="font-size: 2.5rem; color: #333;">Karan</h1>
 
-🛠️ **Tech Stack**
-- Intermediate: `React` `javascript` `MongoDB` `node js` `Express js`
+
+<div align="center" style="width:100vw;display:flex; justify-content:center; padding:5px;">
+    <h1>Full Stack Developer</h1>
+  <div align="center" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 45px; height: 45px;" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="width: 45px; height: 45px;" alt="Express" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 45px; height: 45px;" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width: 45px; height: 45px;" alt="MongoDB" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 45px; height: 45px;" alt="JavaScript" />
+  </div>
+</div>
+
+
+
+  
+
+
+
 
 🔭 **Featured Projects**
-- [crypto-tracker](https://crypto-tracker-sable-nine.vercel.app/) - GIve you details about tons of crypto currency prices, market cap, daily exchange, graph representation, currency change from inr to us and vice versa
-- [count-down-app](https://count-down-app-eight.vercel.app/) - simple yet very important in context of react knowledge, in this I used Ref one of the important hooks provided by react js.
+- [**Crypto Tracker**](https://crypto-tracker-sable-nine.vercel.app/) - Provides real-time cryptocurrency prices, market cap, daily exchange, graphical data, and currency conversion (INR to USD and vice versa).
+- [**Count Down App**](https://count-down-app-eight.vercel.app/) - A simple yet powerful React application demonstrating the use of the `useRef` hook.
 
 📊 **GitHub Stats**
 <p align="center">
@@ -20,3 +34,4 @@ Got into this profession because you feel creator, you have this sensation to be
 - [GitHub](https://github.com/karanxdeveloper)
 - [LinkedIn](https://linkedin.com/in/johndoe)
 - [Twitter](https://x.com/Karanxdeveloper)
+
