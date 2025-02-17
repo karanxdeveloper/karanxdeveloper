@@ -32,6 +32,5 @@
 
 🤝 **Connect With Me**
 - [GitHub](https://github.com/karanxdeveloper)
-- [LinkedIn](https://linkedin.com/in/johndoe)
 - [Twitter](https://x.com/Karanxdeveloper)
 
