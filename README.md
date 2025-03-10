@@ -22,7 +22,9 @@
 
 🔭 **Featured Projects**
 - [**Crypto Tracker**](https://crypto-tracker-sable-nine.vercel.app/) - Provides real-time cryptocurrency prices, market cap, daily exchange, graphical data, and currency conversion (INR to USD and vice versa).
+- [**Portfolio Website**](https://portfolio-website3.netlify.app/) - Portfolio website.
 - [**Count Down App**](https://count-down-app-eight.vercel.app/) - A simple yet powerful React application demonstrating the use of the `useRef` hook.
+- [**CLock Web App**](https://timexclock.netlify.app/) - Clock app, where you can set alarm, use stopWatch, start a countdown, used react js, useRef, useEffect, Framer-Motion,React-Router-dom
 
 📊
 # 💻Tech Stack
@@ -33,4 +35,5 @@
 🤝 **Connect With Me**
 - [GitHub](https://github.com/karanxdeveloper)
 - [Twitter](https://x.com/Karanxdeveloper)
+- [LinkedIn](https://www.linkedin.com/in/karan-kumar-singh-7a2639354/)
 
