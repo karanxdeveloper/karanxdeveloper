@@ -21,6 +21,7 @@
 
 
 🔭 **Featured Projects**
+- [**Nice chat**](https://nice-chat-gamma.vercel.app/login) - Nice chat, talk to anyone in real time, user authorization, profile-edit option, image sending option.
 - [**Crypto Tracker**](https://crypto-tracker-sable-nine.vercel.app/) - Provides real-time cryptocurrency prices, market cap, daily exchange, graphical data, and currency conversion (INR to USD and vice versa).
 - [**Portfolio Website**](https://portfolio-website3.netlify.app/) - Portfolio website.
 - [**Count Down App**](https://count-down-app-eight.vercel.app/) - A simple yet powerful React application demonstrating the use of the `useRef` hook.
