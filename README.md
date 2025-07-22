@@ -22,9 +22,9 @@
 
 🔭 **Featured Projects**
 - [**Nice chat**](https://nice-chat-gamma.vercel.app/login) - Nice chat, talk to anyone in real time, user authorization, profile-edit option, image sending option.
+- [**Auth Backend**](https://github.com/karanxdeveloper/Auth-backend) - Backend for authentication, features like sign up,login, authentication using otp and reset password option.
 - [**Crypto Tracker**](https://crypto-tracker-sable-nine.vercel.app/) - Provides real-time cryptocurrency prices, market cap, daily exchange, graphical data, and currency conversion (INR to USD and vice versa).
 - [**Portfolio Website**](https://portfolio-website3.netlify.app/) - Portfolio website.
-- [**Count Down App**](https://count-down-app-eight.vercel.app/) - A simple yet powerful React application demonstrating the use of the `useRef` hook.
 - [**CLock Web App**](https://timexclock.netlify.app/) - Clock app, where you can set alarm, use stopWatch, start a countdown, used react js, useRef, useEffect, Framer-Motion,React-Router-dom
 
 📊
